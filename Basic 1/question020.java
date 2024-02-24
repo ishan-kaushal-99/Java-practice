@@ -3,7 +3,6 @@
 // Input first integer: 25
 // Input second integer: 39
 // Expected Output
-
 // 25 != 39                                                                          
 // 25 < 39                                                                           
 // 25 <= 39
