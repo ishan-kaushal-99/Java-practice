@@ -1,5 +1,5 @@
 // Write a Java program to print a face.
-// Expected Output
+// Expected Output:
 
 //  +"""""+                                                 
 // [| o o |]                                                
